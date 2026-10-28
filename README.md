@@ -228,8 +228,3 @@ Contributions are always welcome!
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-<div align="center">
-
-Made with ❤️ by [rehan3011](https://github.com/rehan3011)
-
-</div>
